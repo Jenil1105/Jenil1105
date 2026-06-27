@@ -2,9 +2,9 @@ Turning "what if..." into Git commits ;
 
 ```text
 ● engineer.service - Jenil Savaj
-     Loaded: always
-     Active: running
-     Since: Jan 2005
+     Loaded : always
+     Status : running
+     Since  : Jan 2005
 
      bug_status      :: expected
      coffee_level    :: required
@@ -13,7 +13,7 @@ Turning "what if..." into Git commits ;
      mission         :: Build fast. Build right.
 ```
 
-## Tech Stack
+## Things That Keep My CPU Warm
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
